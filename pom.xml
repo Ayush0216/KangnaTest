@@ -14,7 +14,7 @@
 
 <artifactId>junit</artifactId>
 
-<version>3.8.1</version>
+<version>4.13.1</version>
 
 <scope>test</scope>
 
@@ -327,7 +327,7 @@
 
 <artifactId>junit</artifactId>
 
-<version>4.11</version>
+<version>4.13.1</version>
 
 </dependency>
 
